@@ -13,7 +13,7 @@
 - Compilex: A library for executing code in various programming languages.
 - 
 ## Demo
-Check out the live demo: [OnlineCodeEditor](https://mansi129.github.io/FoodLandingPage.github.io/)
+Check out the live demo: [OnlineCodeEditor][(https://illustrious-madeleine-e76e84.netlify.app)]
   ## Quick Start
 
 ```bash
