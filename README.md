@@ -11,7 +11,10 @@
 - Express.js: Web application framework for Node.js, used to build the backend server.
 - CodeMirror: A versatile text editor implemented in JavaScript for the browser, providing syntax highlighting and real-time editing capabilities.
 - Compilex: A library for executing code in various programming languages.
-- 
+
+## Screenshot
+![Screenshot 2024-03-21 021526](https://github.com/mansi129/OnlineCodeEditor/assets/68495518/8ae90d5d-1e94-4611-a5b7-8b39759f0334)
+
 ## Demo
 Check out the live demo: [OnlineCodeEditor][(https://illustrious-madeleine-e76e84.netlify.app)]
   ## Quick Start
